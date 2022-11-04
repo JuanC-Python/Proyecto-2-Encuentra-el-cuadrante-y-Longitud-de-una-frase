@@ -1,1 +1,4 @@
 # Proyecto-2-Encuentra-el-cuadrante-y-Longitud-de-una-frase
+
+Se realizan los dos puntos del proyecto numero 2 utilizando listas, el primer punto referente a la longitud de una frase recibe un dato mediante el teclado, luego esta cadena por medio de la función LIST se convierte en cadena, luego por medio de un for se itera la lista y se crea un contador, finalmente por medio de condicionales if, se revisan las consideraciones propuestas en el punto UNO del proyecto.
+Por otro lado, en el punto número DOS del plano cartesiano y los cuadrantes, se implementa un while True y un break para solicitar nuevamente los datos si una persona ingresa cero como lo pide el enunciado, con respecto a las coordenadas se solicitan por teclado, se agregan a una lista mediante la función append y por medio de condicionales if se revisan los índices de la lista para verificar si los valores son positivos o negativos para así posicionarlos en el cuadrante pertinente.
